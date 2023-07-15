@@ -1,0 +1,1 @@
+<h1 style="text-align: center;">Welcome to Customer Care Management System</h1>
